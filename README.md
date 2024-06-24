@@ -9,6 +9,3 @@ A Python script to scrape search results for the term "美白" from Baidu and sa
 
 ```bash
 git clone https://github.com/yourusername/Baidu-Meibai-Scraper.git
-用家里电脑登录，为什么会有验证码的情况，用指纹浏览器不是默认同一台设备么
-now come on
-so hot
