@@ -9,5 +9,3 @@ A Python script to scrape search results for the term "美白" from Baidu and sa
 
 ```bash
 git clone https://github.com/yourusername/Baidu-Meibai-Scraper.git
-
-这里看起来是空白的，得等等了
